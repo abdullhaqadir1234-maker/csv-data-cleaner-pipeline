@@ -1,0 +1,25 @@
+===== STUDENT 1 =====
+Name: ali
+Age: 20
+Score: 87
+
+===== STUDENT 2 =====
+Name: sara
+Age: 19
+Score: 94
+
+===== STUDENT 3 =====
+Name: hassan
+Age: 23
+Score: 82
+
+===== STUDENT 4 =====
+Name: abdul qadir
+Age: 99
+Score: 99
+
+===== STUDENT 5 =====
+Name: qadir
+Age: 17
+Score: 55
+
